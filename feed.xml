@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Hiraya.org</title>
-    <link href="http://Hiraya.org/feed.xml" rel="self" />
-    <link href="http://Hiraya.org" />
+    <link href="https://Hiraya.org/feed.xml" rel="self" />
+    <link href="https://Hiraya.org" />
     <updated>2020-11-02T14:42:47+08:00</updated>
     <author>
         <name>SweetSeclusion</name>
     </author>
-    <id>http://Hiraya.org</id>
+    <id>https://Hiraya.org</id>
 
     <entry>
         <title>Welcome to Hiraya International</title>
         <author>
             <name>SweetSeclusion</name>
         </author>
-        <link href="http://Hiraya.org/welcome-to-hiraya-international/"/>
-        <id>http://Hiraya.org/welcome-to-hiraya-international/</id>
+        <link href="https://Hiraya.org/welcome-to-hiraya-international/"/>
+        <id>https://Hiraya.org/welcome-to-hiraya-international/</id>
 
         <updated>2020-11-02T12:45:38+08:00</updated>
             <summary>
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><em style="font-size: 14px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);"><img loading="lazy"  src="http://Hiraya.org/media/posts/1/collaboration-community-cooperation-461049-1024x829-md-3.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="http://Hiraya.org/media/posts/1/responsive/collaboration-community-cooperation-461049-1024x829-md-3-xs.jpg 300w ,http://Hiraya.org/media/posts/1/responsive/collaboration-community-cooperation-461049-1024x829-md-3-sm.jpg 480w ,http://Hiraya.org/media/posts/1/responsive/collaboration-community-cooperation-461049-1024x829-md-3-md.jpg 768w"  alt="" width="768" height="622"></figure><br>"Hiraya"</em><span style="font-size: 14px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);"> is an ancient Tagalog word that means </span><em style="font-size: 14px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);">"dreams and hopes"</em><span style="font-size: 14px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);"> and here at Hiraya International, we dream of bridging the cultures of France, Romania, and the Philippines through different programs that highlight the three countries uniqueness.</span></p>
+                <figure class="post__image"><em style="font-size: 14px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);"><img loading="lazy"  src="https://Hiraya.org/media/posts/1/collaboration-community-cooperation-461049-1024x829-md-3.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Hiraya.org/media/posts/1/responsive/collaboration-community-cooperation-461049-1024x829-md-3-xs.jpg 300w ,https://Hiraya.org/media/posts/1/responsive/collaboration-community-cooperation-461049-1024x829-md-3-sm.jpg 480w ,https://Hiraya.org/media/posts/1/responsive/collaboration-community-cooperation-461049-1024x829-md-3-md.jpg 768w"  alt="" width="768" height="622"></figure><br>"Hiraya"</em><span style="font-size: 14px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);"> is an ancient Tagalog word that means </span><em style="font-size: 14px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);">"dreams and hopes"</em><span style="font-size: 14px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);"> and here at Hiraya International, we dream of bridging the cultures of France, Romania, and the Philippines through different programs that highlight the three countries uniqueness.</span></p>
 <div class="wp-block-columns has-2-columns is-main-message">
 <div class="wp-block-column">
 <p><!-- /wp:paragraph --></p>
@@ -95,8 +95,8 @@
         <author>
             <name>SweetSeclusion</name>
         </author>
-        <link href="http://Hiraya.org/hiraya-fma/"/>
-        <id>http://Hiraya.org/hiraya-fma/</id>
+        <link href="https://Hiraya.org/hiraya-fma/"/>
+        <id>https://Hiraya.org/hiraya-fma/</id>
 
         <updated>2020-11-02T14:42:47+08:00</updated>
             <summary>
@@ -107,7 +107,7 @@
         <content type="html">
             <![CDATA[
                 <ul>
-<li class="align-center"><br><figure class="post__image align-center"><img loading="lazy"  src="http://Hiraya.org/media/posts/8/Screen-Shot-2020-11-02-at-14.36.31.png" sizes="(max-width: 48em) 100vw, 768px" srcset="http://Hiraya.org/media/posts/8/responsive/Screen-Shot-2020-11-02-at-14.36.31-xs.png 300w ,http://Hiraya.org/media/posts/8/responsive/Screen-Shot-2020-11-02-at-14.36.31-sm.png 480w ,http://Hiraya.org/media/posts/8/responsive/Screen-Shot-2020-11-02-at-14.36.31-md.png 768w"  alt="" width="323" height="310"></figure><br><br>A project aiming at promoting Filipino Martial Arts, documenting my journey / training sessions.<br><br><br><figure class="post__image align-center"><img loading="lazy"  src="http://Hiraya.org/media/posts/8/Screen-Shot-2020-11-02-at-14.35.46.png" sizes="(max-width: 48em) 100vw, 768px" srcset="http://Hiraya.org/media/posts/8/responsive/Screen-Shot-2020-11-02-at-14.35.46-xs.png 300w ,http://Hiraya.org/media/posts/8/responsive/Screen-Shot-2020-11-02-at-14.35.46-sm.png 480w ,http://Hiraya.org/media/posts/8/responsive/Screen-Shot-2020-11-02-at-14.35.46-md.png 768w"  alt="" width="810" height="814"></figure><br><br><br><br><br><br></li>
+<li class="align-center"><br><figure class="post__image align-center"><img loading="lazy"  src="https://Hiraya.org/media/posts/8/Screen-Shot-2020-11-02-at-14.36.31.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Hiraya.org/media/posts/8/responsive/Screen-Shot-2020-11-02-at-14.36.31-xs.png 300w ,https://Hiraya.org/media/posts/8/responsive/Screen-Shot-2020-11-02-at-14.36.31-sm.png 480w ,https://Hiraya.org/media/posts/8/responsive/Screen-Shot-2020-11-02-at-14.36.31-md.png 768w"  alt="" width="323" height="310"></figure><br><br>A project aiming at promoting Filipino Martial Arts, documenting my journey / training sessions.<br><br><br><figure class="post__image align-center"><img loading="lazy"  src="https://Hiraya.org/media/posts/8/Screen-Shot-2020-11-02-at-14.35.46.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Hiraya.org/media/posts/8/responsive/Screen-Shot-2020-11-02-at-14.35.46-xs.png 300w ,https://Hiraya.org/media/posts/8/responsive/Screen-Shot-2020-11-02-at-14.35.46-sm.png 480w ,https://Hiraya.org/media/posts/8/responsive/Screen-Shot-2020-11-02-at-14.35.46-md.png 768w"  alt="" width="810" height="814"></figure><br><br><br><br><br><br></li>
 </ul>
             ]]>
         </content>
@@ -117,8 +117,8 @@
         <author>
             <name>SweetSeclusion</name>
         </author>
-        <link href="http://Hiraya.org/about-us/"/>
-        <id>http://Hiraya.org/about-us/</id>
+        <link href="https://Hiraya.org/about-us/"/>
+        <id>https://Hiraya.org/about-us/</id>
 
         <updated>2020-11-02T14:41:45+08:00</updated>
             <summary>
@@ -130,7 +130,7 @@
             <![CDATA[
                 <p><!-- wp:coblocks/row {"columns":2,"layout":"66-33","coblocks":{"id":"55141317562"}} --></p>
 <div class="wp-block-coblocks-row coblocks-row-55141317562" data-columns="2" data-layout="66-33">
-<div class="wp-block-coblocks-row__inner has-medium-gutter has-no-padding has-no-margin is-stacked-on-mobile"><!-- wp:coblocks/column {"width":"60.00","coblocks":{"id":"55141320246"}} --><!-- wp:image {"id":403,"align":"center","width":343,"height":405} --><strong style="font-size: 14px; color: var(--text-editor-body-color); font-family: var(--font-base);"> <figure class="post__image align-left"><img loading="lazy"  src="http://Hiraya.org/media/posts/3/Screen-Shot-2020-11-02-at-12.35.17-3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="http://Hiraya.org/media/posts/3/responsive/Screen-Shot-2020-11-02-at-12.35.17-3-xs.png 300w ,http://Hiraya.org/media/posts/3/responsive/Screen-Shot-2020-11-02-at-12.35.17-3-sm.png 480w ,http://Hiraya.org/media/posts/3/responsive/Screen-Shot-2020-11-02-at-12.35.17-3-md.png 768w"  alt="" width="1631" height="700"></figure><br><br>HIRAYA INTERNATIONAL </strong><span style="font-size: 14px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);">is a Non-Profit Organization, bridging Romania, France, and the Philippines through knowledge sharing, culture and arts participation, and sustainable development.<br><br></span><span style="font-size: 14px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);">The objective of </span><strong style="font-size: 14px; color: var(--text-editor-body-color); font-family: var(--font-base);">Hiraya International </strong><span style="font-size: 14px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);">is to cultivate friendship and collaboration between Filipinos, French, and Romanians through cultural, artistic, gastronomic, and sporting events that highlight the uniqueness of each culture. It also aims to promote involvement in activities that supports sustainable development.</span><br><br><br></div>
+<div class="wp-block-coblocks-row__inner has-medium-gutter has-no-padding has-no-margin is-stacked-on-mobile"><!-- wp:coblocks/column {"width":"60.00","coblocks":{"id":"55141320246"}} --><!-- wp:image {"id":403,"align":"center","width":343,"height":405} --><strong style="font-size: 14px; color: var(--text-editor-body-color); font-family: var(--font-base);"> <figure class="post__image align-left"><img loading="lazy"  src="https://Hiraya.org/media/posts/3/Screen-Shot-2020-11-02-at-12.35.17-3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Hiraya.org/media/posts/3/responsive/Screen-Shot-2020-11-02-at-12.35.17-3-xs.png 300w ,https://Hiraya.org/media/posts/3/responsive/Screen-Shot-2020-11-02-at-12.35.17-3-sm.png 480w ,https://Hiraya.org/media/posts/3/responsive/Screen-Shot-2020-11-02-at-12.35.17-3-md.png 768w"  alt="" width="1631" height="700"></figure><br><br>HIRAYA INTERNATIONAL </strong><span style="font-size: 14px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);">is a Non-Profit Organization, bridging Romania, France, and the Philippines through knowledge sharing, culture and arts participation, and sustainable development.<br><br></span><span style="font-size: 14px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);">The objective of </span><strong style="font-size: 14px; color: var(--text-editor-body-color); font-family: var(--font-base);">Hiraya International </strong><span style="font-size: 14px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);">is to cultivate friendship and collaboration between Filipinos, French, and Romanians through cultural, artistic, gastronomic, and sporting events that highlight the uniqueness of each culture. It also aims to promote involvement in activities that supports sustainable development.</span><br><br><br></div>
 </div>
 <div class="wp-block-coblocks-row coblocks-row-77123959945" data-columns="2" data-layout="66-33">
 <div class="wp-block-coblocks-row__inner has-medium-gutter has-no-padding has-no-margin is-stacked-on-mobile">
@@ -153,8 +153,8 @@
         <author>
             <name>SweetSeclusion</name>
         </author>
-        <link href="http://Hiraya.org/contact-us/"/>
-        <id>http://Hiraya.org/contact-us/</id>
+        <link href="https://Hiraya.org/contact-us/"/>
+        <id>https://Hiraya.org/contact-us/</id>
 
         <updated>2020-09-29T17:12:12+08:00</updated>
             <summary>
@@ -218,8 +218,8 @@
         <author>
             <name>SweetSeclusion</name>
         </author>
-        <link href="http://Hiraya.org/home/"/>
-        <id>http://Hiraya.org/home/</id>
+        <link href="https://Hiraya.org/home/"/>
+        <id>https://Hiraya.org/home/</id>
 
         <updated>2020-10-27T13:54:48+08:00</updated>
             <summary>
@@ -240,7 +240,7 @@
 <p><!-- wp:column --></p>
 <div class="wp-block-column"><!-- wp:image {"id":356,"align":"center","width":432,"height":448} -->
 <div class="wp-block-image">
-<figure class="aligncenter is-resized"><figure class="wp-image-356"><img loading="lazy"  src="http://Hiraya.org/media/posts/5/collaboration-community-cooperation-461049-1024x829.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="http://Hiraya.org/media/posts/5/responsive/collaboration-community-cooperation-461049-1024x829-xs.jpg 300w ,http://Hiraya.org/media/posts/5/responsive/collaboration-community-cooperation-461049-1024x829-sm.jpg 480w ,http://Hiraya.org/media/posts/5/responsive/collaboration-community-cooperation-461049-1024x829-md.jpg 768w"  alt="" width="687" height="557"></figure></figure>
+<figure class="aligncenter is-resized"><figure class="wp-image-356"><img loading="lazy"  src="https://Hiraya.org/media/posts/5/collaboration-community-cooperation-461049-1024x829.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Hiraya.org/media/posts/5/responsive/collaboration-community-cooperation-461049-1024x829-xs.jpg 300w ,https://Hiraya.org/media/posts/5/responsive/collaboration-community-cooperation-461049-1024x829-sm.jpg 480w ,https://Hiraya.org/media/posts/5/responsive/collaboration-community-cooperation-461049-1024x829-md.jpg 768w"  alt="" width="687" height="557"></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
@@ -273,12 +273,12 @@
 <hr class="wp-block-separator"><!-- /wp:separator -->
 <p><!-- wp:heading --></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="http://Hiraya.org/media/posts/5/gallery/3-2.jpeg" data-size="768x1024"><img loading="lazy" src="http://Hiraya.org/media/posts/5/gallery/3-2-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
-<figure class="gallery__item"><a href="http://Hiraya.org/media/posts/5/gallery/2-2.jpeg" data-size="768x1024"><img loading="lazy" src="http://Hiraya.org/media/posts/5/gallery/2-2-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
-<figure class="gallery__item"><a href="http://Hiraya.org/media/posts/5/gallery/4-2.jpeg" data-size="768x1024"><img loading="lazy" src="http://Hiraya.org/media/posts/5/gallery/4-2-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
-<figure class="gallery__item"><a href="http://Hiraya.org/media/posts/5/gallery/1-2.jpeg" data-size="1024x768"><img loading="lazy" src="http://Hiraya.org/media/posts/5/gallery/1-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="http://Hiraya.org/media/posts/5/gallery/5-2.jpeg" data-size="1024x768"><img loading="lazy" src="http://Hiraya.org/media/posts/5/gallery/5-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="http://Hiraya.org/media/posts/5/gallery/6-2.jpeg" data-size="1024x548"><img loading="lazy" src="http://Hiraya.org/media/posts/5/gallery/6-2-thumbnail.jpeg" alt="" width="720" height="385"></a></figure>
+<figure class="gallery__item"><a href="https://Hiraya.org/media/posts/5/gallery/3-2.jpeg" data-size="768x1024"><img loading="lazy" src="https://Hiraya.org/media/posts/5/gallery/3-2-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://Hiraya.org/media/posts/5/gallery/2-2.jpeg" data-size="768x1024"><img loading="lazy" src="https://Hiraya.org/media/posts/5/gallery/2-2-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://Hiraya.org/media/posts/5/gallery/4-2.jpeg" data-size="768x1024"><img loading="lazy" src="https://Hiraya.org/media/posts/5/gallery/4-2-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://Hiraya.org/media/posts/5/gallery/1-2.jpeg" data-size="1024x768"><img loading="lazy" src="https://Hiraya.org/media/posts/5/gallery/1-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://Hiraya.org/media/posts/5/gallery/5-2.jpeg" data-size="1024x768"><img loading="lazy" src="https://Hiraya.org/media/posts/5/gallery/5-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://Hiraya.org/media/posts/5/gallery/6-2.jpeg" data-size="1024x548"><img loading="lazy" src="https://Hiraya.org/media/posts/5/gallery/6-2-thumbnail.jpeg" alt="" width="720" height="385"></a></figure>
 </div></div>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph {"customFontSize":14} --></p>
@@ -317,7 +317,7 @@
 <p><!-- wp:column --></p>
 <div class="wp-block-column"><!-- wp:image {"id":356,"align":"center","width":432,"height":448} -->
 <div class="wp-block-image">
-<figure class="aligncenter is-resized"><figure class="wp-image-356"><img loading="lazy"  src="http://Hiraya.org/media/posts/5/collaboration-community-cooperation-461049-1024x829.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="http://Hiraya.org/media/posts/5/responsive/collaboration-community-cooperation-461049-1024x829-xs.jpg 300w ,http://Hiraya.org/media/posts/5/responsive/collaboration-community-cooperation-461049-1024x829-sm.jpg 480w ,http://Hiraya.org/media/posts/5/responsive/collaboration-community-cooperation-461049-1024x829-md.jpg 768w"  alt="" width="687" height="557"></figure></figure>
+<figure class="aligncenter is-resized"><figure class="wp-image-356"><img loading="lazy"  src="https://Hiraya.org/media/posts/5/collaboration-community-cooperation-461049-1024x829.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Hiraya.org/media/posts/5/responsive/collaboration-community-cooperation-461049-1024x829-xs.jpg 300w ,https://Hiraya.org/media/posts/5/responsive/collaboration-community-cooperation-461049-1024x829-sm.jpg 480w ,https://Hiraya.org/media/posts/5/responsive/collaboration-community-cooperation-461049-1024x829-md.jpg 768w"  alt="" width="687" height="557"></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
@@ -350,12 +350,12 @@
 <hr class="wp-block-separator"><!-- /wp:separator -->
 <p><!-- wp:heading --></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="http://Hiraya.org/media/posts/5/gallery/3-2.jpeg" data-size="768x1024"><img loading="lazy" src="http://Hiraya.org/media/posts/5/gallery/3-2-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
-<figure class="gallery__item"><a href="http://Hiraya.org/media/posts/5/gallery/2-2.jpeg" data-size="768x1024"><img loading="lazy" src="http://Hiraya.org/media/posts/5/gallery/2-2-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
-<figure class="gallery__item"><a href="http://Hiraya.org/media/posts/5/gallery/4-2.jpeg" data-size="768x1024"><img loading="lazy" src="http://Hiraya.org/media/posts/5/gallery/4-2-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
-<figure class="gallery__item"><a href="http://Hiraya.org/media/posts/5/gallery/1-2.jpeg" data-size="1024x768"><img loading="lazy" src="http://Hiraya.org/media/posts/5/gallery/1-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="http://Hiraya.org/media/posts/5/gallery/5-2.jpeg" data-size="1024x768"><img loading="lazy" src="http://Hiraya.org/media/posts/5/gallery/5-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="http://Hiraya.org/media/posts/5/gallery/6-2.jpeg" data-size="1024x548"><img loading="lazy" src="http://Hiraya.org/media/posts/5/gallery/6-2-thumbnail.jpeg" alt="" width="720" height="385"></a></figure>
+<figure class="gallery__item"><a href="https://Hiraya.org/media/posts/5/gallery/3-2.jpeg" data-size="768x1024"><img loading="lazy" src="https://Hiraya.org/media/posts/5/gallery/3-2-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://Hiraya.org/media/posts/5/gallery/2-2.jpeg" data-size="768x1024"><img loading="lazy" src="https://Hiraya.org/media/posts/5/gallery/2-2-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://Hiraya.org/media/posts/5/gallery/4-2.jpeg" data-size="768x1024"><img loading="lazy" src="https://Hiraya.org/media/posts/5/gallery/4-2-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://Hiraya.org/media/posts/5/gallery/1-2.jpeg" data-size="1024x768"><img loading="lazy" src="https://Hiraya.org/media/posts/5/gallery/1-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://Hiraya.org/media/posts/5/gallery/5-2.jpeg" data-size="1024x768"><img loading="lazy" src="https://Hiraya.org/media/posts/5/gallery/5-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://Hiraya.org/media/posts/5/gallery/6-2.jpeg" data-size="1024x548"><img loading="lazy" src="https://Hiraya.org/media/posts/5/gallery/6-2-thumbnail.jpeg" alt="" width="720" height="385"></a></figure>
 </div></div>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph {"customFontSize":14} --></p>
@@ -382,8 +382,8 @@
         <author>
             <name>SweetSeclusion</name>
         </author>
-        <link href="http://Hiraya.org/gallery/"/>
-        <id>http://Hiraya.org/gallery/</id>
+        <link href="https://Hiraya.org/gallery/"/>
+        <id>https://Hiraya.org/gallery/</id>
 
         <updated>2020-09-29T17:12:12+08:00</updated>
             <summary>
@@ -398,13 +398,13 @@
 <div class="coblocks-gallery has-caption-style-dark has-gutter">
 <ul class="has-grid-lrg has-gutter-15 has-gutter-mobile-15">
 <li class="coblocks-gallery--item">
-<figure class="coblocks-gallery--figure"><figure class="wp-image-356"><img loading="lazy" src="http://Hiraya.org/media/posts/6/collaboration-community-cooperation-461049-1024x829.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="http://Hiraya.org/media/posts/6/responsive/collaboration-community-cooperation-461049-1024x829-xs.jpg 300w ,http://Hiraya.org/media/posts/6/responsive/collaboration-community-cooperation-461049-1024x829-sm.jpg 480w ,http://Hiraya.org/media/posts/6/responsive/collaboration-community-cooperation-461049-1024x829-md.jpg 768w"  alt="" data-id="356" data-link="https://hiraya.org/home/collaboration-community-cooperation-461049/" /></figure></figure>
+<figure class="coblocks-gallery--figure"><figure class="wp-image-356"><img loading="lazy" src="https://Hiraya.org/media/posts/6/collaboration-community-cooperation-461049-1024x829.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Hiraya.org/media/posts/6/responsive/collaboration-community-cooperation-461049-1024x829-xs.jpg 300w ,https://Hiraya.org/media/posts/6/responsive/collaboration-community-cooperation-461049-1024x829-sm.jpg 480w ,https://Hiraya.org/media/posts/6/responsive/collaboration-community-cooperation-461049-1024x829-md.jpg 768w"  alt="" data-id="356" data-link="https://hiraya.org/home/collaboration-community-cooperation-461049/" /></figure></figure>
 </li>
 <li class="coblocks-gallery--item">
-<figure class="coblocks-gallery--figure"><figure class="wp-image-350"><img loading="lazy" src="http://Hiraya.org/media/posts/6/asia-blue-blue-sky-902288-1024x683.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="http://Hiraya.org/media/posts/6/responsive/asia-blue-blue-sky-902288-1024x683-xs.jpg 300w ,http://Hiraya.org/media/posts/6/responsive/asia-blue-blue-sky-902288-1024x683-sm.jpg 480w ,http://Hiraya.org/media/posts/6/responsive/asia-blue-blue-sky-902288-1024x683-md.jpg 768w"  alt="" data-id="350" data-link="https://hiraya.org/home/asia-blue-blue-sky-902288/" /></figure></figure>
+<figure class="coblocks-gallery--figure"><figure class="wp-image-350"><img loading="lazy" src="https://Hiraya.org/media/posts/6/asia-blue-blue-sky-902288-1024x683.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Hiraya.org/media/posts/6/responsive/asia-blue-blue-sky-902288-1024x683-xs.jpg 300w ,https://Hiraya.org/media/posts/6/responsive/asia-blue-blue-sky-902288-1024x683-sm.jpg 480w ,https://Hiraya.org/media/posts/6/responsive/asia-blue-blue-sky-902288-1024x683-md.jpg 768w"  alt="" data-id="350" data-link="https://hiraya.org/home/asia-blue-blue-sky-902288/" /></figure></figure>
 </li>
 <li class="coblocks-gallery--item">
-<figure class="coblocks-gallery--figure"><figure class="wp-image-346"><img loading="lazy" src="http://Hiraya.org/media/posts/6/adult-baby-care-226616-1024x800.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="http://Hiraya.org/media/posts/6/responsive/adult-baby-care-226616-1024x800-xs.jpg 300w ,http://Hiraya.org/media/posts/6/responsive/adult-baby-care-226616-1024x800-sm.jpg 480w ,http://Hiraya.org/media/posts/6/responsive/adult-baby-care-226616-1024x800-md.jpg 768w"  alt="" data-id="346" data-link="https://hiraya.org/home/adult-baby-care-226616/" /></figure></figure>
+<figure class="coblocks-gallery--figure"><figure class="wp-image-346"><img loading="lazy" src="https://Hiraya.org/media/posts/6/adult-baby-care-226616-1024x800.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Hiraya.org/media/posts/6/responsive/adult-baby-care-226616-1024x800-xs.jpg 300w ,https://Hiraya.org/media/posts/6/responsive/adult-baby-care-226616-1024x800-sm.jpg 480w ,https://Hiraya.org/media/posts/6/responsive/adult-baby-care-226616-1024x800-md.jpg 768w"  alt="" data-id="346" data-link="https://hiraya.org/home/adult-baby-care-226616/" /></figure></figure>
 </li>
 </ul>
 </div>
@@ -419,8 +419,8 @@
         <author>
             <name>SweetSeclusion</name>
         </author>
-        <link href="http://Hiraya.org/frequently-asked-questions-faq/"/>
-        <id>http://Hiraya.org/frequently-asked-questions-faq/</id>
+        <link href="https://Hiraya.org/frequently-asked-questions-faq/"/>
+        <id>https://Hiraya.org/frequently-asked-questions-faq/</id>
 
         <updated>2020-09-29T17:12:12+08:00</updated>
             <summary>
